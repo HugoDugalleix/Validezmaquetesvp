@@ -1,2 +1,3 @@
+<<<<<<< HEAD
 Local
-boule de neige
+
